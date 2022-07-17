@@ -5,6 +5,9 @@ Secondary graphics catalog
 
 Папки:
 Icons - иконки
+
 Layouts - SVG-макеты 
+
 VK Group - элементы группы ВК
+
 Avatars - аватарки
