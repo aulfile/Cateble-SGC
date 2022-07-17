@@ -1,4 +1,10 @@
 # Cateble-SGC
 Secondary graphics catalog
 
-This repository contains all secondary SVG files of Cateble
+Репозиторий хранит в себе "второстепенные" графические элементы cateble.ru в формате SVG и PNG.
+
+Папки:
+Icons - иконки
+Layouts - SVG-макеты 
+VK Group - элементы группы ВК
+Avatars - аватарки
